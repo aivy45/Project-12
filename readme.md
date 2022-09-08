@@ -14,7 +14,7 @@
 # Here is the live link of this project
 - [Live Link](https://project12-ineuron-45.netlify.app/)
 
-
+![image](images/project-12.png)
 
 
 
